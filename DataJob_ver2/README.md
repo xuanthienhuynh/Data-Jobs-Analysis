@@ -46,6 +46,8 @@ Based on a dataset of **479K** job postings, the core findings are as follows:
 ## 📝 Tổng quan dự án (Project Overview)
 Dự án này là một Interactive Dashboard được xây dựng trên Power BI nhằm phân tích sâu thị trường việc làm trong lĩnh vực Dữ liệu. 
 Mục tiêu của dự án là cung cấp góc nhìn trực quan về xu hướng kỹ năng, mức lương trung bình cho từng vị trí, và các chỉ số tổng quan của thị trường để hỗ trợ ứng viên và nhà tuyển dụng đưa ra quyết định dựa trên dữ liệu.
+## 🖼 Dashboard Snapshot
+![Data Jobs Dashboard v2.0](image/imagedashboard.png)
 
 ## 🚀 Các tính năng nổi bật (Key Features)
 - **Dynamic Field Parameters:** Tối ưu hóa UI/UX bằng cách cho phép người dùng tự do chuyển đổi thước đo (Ví dụ: Chuyển đổi linh hoạt giữa *Median Hourly Salary* và *Median Yearly Salary*) trên cùng một không gian biểu đồ.
